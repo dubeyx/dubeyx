@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I am Crazy for Coding**
 <br>
-M<marquee><h3 align="left">Connect with me:</h3></marquee>
+<marquee><h3 align="left">Connect with me:</h3></marquee>
 <p align="left">
 
 <a href="https://leetcode.com/dubeyx" target="blank"><img align="center" src="https://github.com/dubeyx/dubeyx/blob/main/leetcode.svg" alt="dubeyakhil1" height="30" width="40" /></a>
