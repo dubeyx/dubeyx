@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://leetcode.com/dubeyx" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="dubeyakhil1" height="30" width="40" /></a>
+<a href="https://leetcode.com/dubeyx" target="blank"><img align="center" src="https://github.com/dubeyx/dubeyx/blob/main/leetcode.svg" alt="dubeyakhil1" height="30" width="40" /></a>
 
 <a href="https://twitter.com/dubeyakhil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dubeyakhil1" height="30" width="40" /></a>
 
