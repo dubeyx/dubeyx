@@ -17,6 +17,11 @@
 
 - ⚡ Fun fact **I am Crazy for Coding**
 <br>
+
+<a href="#" target="blank"><img align="center" src="https://github.com/dubeyx/dubeyx/blob/main/25331.png" alt="dubeyakhil1" height="100" width="300" /></a>
+
+
+<br>
 <marquee><h3 align="left">Connect with me:</h3></marquee>
 <p align="left">
 
