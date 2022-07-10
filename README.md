@@ -21,7 +21,7 @@
 <a href="https://github.com/dubeyx/dubeyx/blob/main/25331.jpg" target="blank"><img align="center" src="https://github.com/dubeyx/dubeyx/blob/main/25331.jpg" alt="dubeyakhil1" height="200" width="990" /></a>
 
 
-<br>
+
 <marquee><h3 align="left">Connect with me:</h3></marquee>
 <p align="left">
 
